@@ -48,9 +48,9 @@ body {
   padding: 50px;
 }
 
-h1 {
+h1.heading {
   color: #fff;
 }
-button {
+button.citi {
   color: #fff;
 }
