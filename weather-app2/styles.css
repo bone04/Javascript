@@ -47,4 +47,7 @@ body {
   color: var(--text_dark);
   padding: 50px;
 }
-4. S
+
+h1 {
+  color: #fff;
+}
